@@ -1,6 +1,6 @@
 #!usr/bin/python
 
-print "\033[1;31mColor"
+print "\033[105mColor"
 print "\033[0;34mColor"
 print "\033[0;36mColor"
 print "\033[105mColor"
@@ -13,4 +13,14 @@ print "\033[1;35mColor"
 print "\033[1;33mColor"
 print "\033[1;34mColor"
 print "\033[1;31mColor"
+print "\e[97mColor"
+print "\033[1;92mColor"
+print "\033[1;91mColor"
+print "\033[1;94mColor"
+print "\e[1;4mColor"
+print "\033[1;36mColor"
+print "\033[0mColor"
+print "\e[110mColor"
+print "\e[101mColor"
+print "\033[0mColor"
 
