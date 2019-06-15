@@ -1,0 +1,10 @@
+#!usr/bin/python
+print "R=\033[1;31mColor"
+print "B=\033[0;34mColor"
+print "C=\033[0;36mColor"
+print "G=\033[105mColor"
+print "G1=\033[102mColor"
+print "W=\033[1;37mColor"
+print "Y=\033[0;33mColor"
+print "Y2=\033[1;33mColor"
+print "o=\033[0mColor"
